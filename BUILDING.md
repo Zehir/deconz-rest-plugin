@@ -54,7 +54,7 @@ MSYS2 MINGW32 needs to be installed, it can be downloaded from https://msys2.org
 In MSYS2 MINGW32 shell the following packages need to be installed:
 
 ```
-pacman -Sy mingw-w64-i686-qt5 mingw-w64-i686-openssl mingw-w64-i686-sqlite3
+pacman -Sy mingw-w64-i686-qt5-base mingw-w64-i686-qt5-websockets mingw-w64-i686-qt5-serialport mingw-w64-i686-openssl mingw-w64-i686-sqlite3
 ```
 
 1. Checkout this repository

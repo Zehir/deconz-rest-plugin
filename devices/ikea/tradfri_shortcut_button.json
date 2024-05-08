@@ -1,5 +1,6 @@
 {
   "schema": "devcap1.schema.json",
+  "uuid": "bda44e9e-b2c1-4ab7-95ed-11e8072736a4",
   "manufacturername": "$MF_IKEA",
   "modelid": "TRADFRI SHORTCUT Button",
   "product": "TRADFRI SHORTCUT Button - E1812",

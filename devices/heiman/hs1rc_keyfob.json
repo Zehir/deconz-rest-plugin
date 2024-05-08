@@ -1,5 +1,6 @@
 {
   "schema": "devcap1.schema.json",
+  "uuid": "999836b2-535d-4325-84ff-2d87b85255e9",
   "manufacturername": ["HEIMAN", "Heiman", "HEIMAN"],
   "modelid": ["RC-EF-3.0", "RC_V14", "RC-EM"],
   "vendor": "Heiman",

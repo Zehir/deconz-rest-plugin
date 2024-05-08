@@ -1,5 +1,6 @@
 {
   "schema": "devcap1.schema.json",
+  "uuid": "c27c31a4-ac0a-42a0-a4b0-d3e605d50f19",
   "manufacturername": "$MF_LUMI",
   "modelid": "lumi.sensor_smoke",
   "vendor": "Xiaomi",

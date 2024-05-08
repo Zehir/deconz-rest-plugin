@@ -1,5 +1,6 @@
 {
   "schema": "devcap1.schema.json",
+  "uuid": "e9717552-fc0b-4bff-8cb9-8d63e35e5636",
   "manufacturername": ["_TZ3000_ksw8qtmt", "_TZ3000_2putqrmw"],
   "modelid": ["TS011F", "TS011F"],
   "vendor": "Nous",

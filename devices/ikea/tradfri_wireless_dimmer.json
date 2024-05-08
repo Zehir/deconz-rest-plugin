@@ -1,5 +1,6 @@
 {
   "schema": "devcap1.schema.json",
+  "uuid": "941d7cb0-db54-431b-850c-0e9c75af0436",
   "manufacturername": "$MF_IKEA",
   "modelid": "TRADFRI wireless dimmer",
   "product": "TRADFRI wireless dimmer - E1724",

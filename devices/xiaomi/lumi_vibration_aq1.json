@@ -1,5 +1,6 @@
 {
   "schema": "devcap1.schema.json",
+  "uuid": "b5b20dff-da08-45f9-b9b6-4f430ccd9ed4",
   "manufacturername": "$MF_LUMI",
   "modelid": "lumi.vibration.aq1",
   "vendor": "Xiaomi",

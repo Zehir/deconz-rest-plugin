@@ -1,5 +1,6 @@
 {
   "schema": "devcap1.schema.json",
+  "uuid": "1b8283b9-1e99-4599-9146-53904ee80396",
   "manufacturername": ["_TZ3000_okaz9tjs", "_TZ3000_dksbtrzs", "_TZ3000_gvn91tmx"],
   "modelid": ["TS011F", "TS011F", "TS011F"],
   "product": "Smart Plug Power Monitor",

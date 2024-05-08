@@ -1,5 +1,6 @@
 {
   "schema": "devcap1.schema.json",
+  "uuid": "1d3d7da2-9cf1-43aa-bb49-cf29849177ae",
   "manufacturername": "$MF_LUMI",
   "modelid": "lumi.curtain",
   "product": "Xiaomi Aqara Smart Curtain Controller",

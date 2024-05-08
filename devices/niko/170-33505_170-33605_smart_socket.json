@@ -1,5 +1,6 @@
 {
   "schema": "devcap1.schema.json",
+  "uuid": "a250eccc-6d12-4353-acb2-4f7b1bf7ae33",
   "manufacturername": "NIKO NV",
   "modelid": "Connected socket outlet",
   "vendor": "Niko NV",

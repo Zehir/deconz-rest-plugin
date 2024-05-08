@@ -1,5 +1,6 @@
 {
   "schema": "devcap1.schema.json",
+  "uuid": "d9c9cb16-d61a-4c58-9520-44a245a01419",
   "manufacturername": ["_TZ1800_ladpngdx", "LIDL Silvercrest", "LIDL Silvercrest"],
   "modelid": ["TS0211", "TS0211", "HG06668"],
   "product": "Silvercrest Doorbell",

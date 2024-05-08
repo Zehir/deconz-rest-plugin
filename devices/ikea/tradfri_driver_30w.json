@@ -1,5 +1,6 @@
 {
   "schema": "devcap1.schema.json",
+  "uuid": "bfb184bb-c33e-4502-b03e-7679167904ca",
   "manufacturername": "$MF_IKEA",
   "modelid": "TRADFRI Driver 30W",
   "product": "TRADFRI Driver 30W",

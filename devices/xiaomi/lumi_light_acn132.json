@@ -1,5 +1,6 @@
 {
   "schema": "devcap1.schema.json",
+  "uuid": "f5020236-9bca-4106-8234-e5352f1d9f56",
   "manufacturername": [
     "$MF_AQARA",
     "$MF_LUMI"

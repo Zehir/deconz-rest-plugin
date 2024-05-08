@@ -1,5 +1,6 @@
 {
     "schema": "devcap1.schema.json",
+    "uuid": "b5220615-0ee7-45a5-92ac-41e3d4b53dc7",
     "manufacturername": "$MF_SAMJIN",
     "modelid": "multi",
     "product": "Multipurpose Sensor (IM6001-OTP01)",

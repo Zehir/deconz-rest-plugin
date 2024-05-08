@@ -1,5 +1,6 @@
 {
   "schema": "devcap1.schema.json",
+  "uuid": "08c1022e-5538-499f-857f-68e93a49805c",
   "manufacturername": ["Onesti Products AS", "Onesti Products AS", "Onesti Products AS", "Onesti Products AS", "Onesti Products AS", "Onesti Products AS"],
   "modelid": ["EasyFingerTouch", "EasyCodeTouch", "NimlyPRO", "NimlyCode", "NimlyTouch", "NimlyIn"],
   "vendor": "Onesti Products AS",

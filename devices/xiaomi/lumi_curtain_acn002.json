@@ -1,5 +1,6 @@
 {
   "schema": "devcap1.schema.json",
+  "uuid": "29f52a14-d241-4f34-bbb3-6239d4d75ffa",
   "manufacturername": "$MF_LUMI",
   "modelid": "lumi.curtain.acn002",
   "vendor": "Xiaomi",

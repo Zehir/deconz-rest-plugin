@@ -1,5 +1,6 @@
 {
    "schema":"devcap1.schema.json",
+   "uuid":"3adc1f92-dd55-4dc0-b77d-ca684367f822",
    "manufacturername":["_TYZB01_cbiezpds", "_TYZB01_zqvwka4k"],
    "modelid":["SM0201","SM0201"],
    "product":"SM0201 Temperature and Humidity Sensor with LCD Display",

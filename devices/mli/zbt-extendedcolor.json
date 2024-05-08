@@ -1,5 +1,6 @@
 {
   "schema": "devcap1.schema.json",
+  "uuid": "be65edc0-aa05-4c97-80c2-34631220f608",
   "manufacturername": ["MLI"],
   "modelid": ["ZBT-ExtendedColor"],
   "product": "Tint by Mueller Light GU10 spot",

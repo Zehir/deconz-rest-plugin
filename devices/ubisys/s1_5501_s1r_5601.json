@@ -1,5 +1,6 @@
 {
   "schema": "devcap1.schema.json",
+  "uuid": "1f180160-cc47-400e-b366-d1b3759af840",
   "manufacturername": ["ubisys", "ubisys"],
   "modelid": ["S1 (5501)", "S1-R (5601)"],
   "vendor": "ubisys",

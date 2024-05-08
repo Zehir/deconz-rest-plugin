@@ -1,5 +1,6 @@
 {
   "schema": "devcap1.schema.json",
+  "uuid": "bf39ab1a-860b-439c-8211-a6458b690a7e",
   "manufacturername": ["_TZ3000_g5xawfcq", "_TZ3000_amdymr7l"],
   "modelid": ["TS0121", "TS011F"],
   "product": "BW-SHP13",

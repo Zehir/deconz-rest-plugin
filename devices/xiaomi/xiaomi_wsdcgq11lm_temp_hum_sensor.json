@@ -1,5 +1,6 @@
 {
   "schema": "devcap1.schema.json",
+  "uuid": "2b9711aa-982b-440d-8821-bf6f91fab9a4",
   "manufacturername": "$MF_LUMI",
   "modelid": "lumi.weather",
   "vendor": "Xiaomi",

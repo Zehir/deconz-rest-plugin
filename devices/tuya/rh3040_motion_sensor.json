@@ -1,5 +1,6 @@
 {
     "schema": "devcap1.schema.json",
+    "uuid": "4f68259a-3b01-43b8-bc22-50559f0ca842",
     "doc:path": "tuya/rh3040_motion_sensor.md",
     "doc:hdr": "Motion sensor RH3040",
     "manufacturername": ["TUYATEC-zn9wyqtr", "TUYATEC-lakq7nse", "TUYATEC-53o41joc"],

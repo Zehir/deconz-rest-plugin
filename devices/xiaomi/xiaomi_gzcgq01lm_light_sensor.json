@@ -1,5 +1,6 @@
 {
   "schema": "devcap1.schema.json",
+  "uuid": "976be357-ebd1-4b3a-9e6a-edded41415ba",
   "doc:path": "xiaomi/xiaomi_gzcgq01lm_light_sensor.md",
   "doc:hdr": "Light sensor GZCGQ01LM",
   "manufacturername": ["$MF_XIAOMI", "$MF_LUMI"],

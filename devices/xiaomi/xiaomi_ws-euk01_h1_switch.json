@@ -1,5 +1,6 @@
 {
   "schema": "devcap1.schema.json",
+  "uuid": "74c7a5ad-e6df-48b3-9dda-d1dbf5ecae3a",
   "manufacturername": "$MF_LUMI",
   "modelid": "lumi.switch.l1aeu1",
   "vendor": "Xiaomi",

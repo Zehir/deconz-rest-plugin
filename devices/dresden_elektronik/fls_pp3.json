@@ -1,5 +1,6 @@
 {
   "schema": "devcap1.schema.json",
+  "uuid": "692070da-ada0-4479-88b7-2e2ba34bf0c0",
   "manufacturername": ["dresden elektronik", "dresden elektronik"],
   "modelid": ["FLS-PP3", "FLS-PP3 White"],
   "product": "FLS-PP lp",

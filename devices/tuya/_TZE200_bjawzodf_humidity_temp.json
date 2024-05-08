@@ -1,5 +1,6 @@
 {
   "schema": "devcap1.schema.json",
+  "uuid": "daa4627a-b48f-4895-a087-e100f004d36f",
   "manufacturername": ["_TZE200_bjawzodf", "_TZE200_zl1kmjqx"],
   "modelid": ["TS0601", "TS0601"],
   "product": "Tuya multi sensor",

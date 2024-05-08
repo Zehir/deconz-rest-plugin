@@ -1,5 +1,6 @@
 {
    "schema":"devcap1.schema.json",
+   "uuid":"a6f93bb1-6eae-4137-a8cf-e9e3c7695b19",
    "manufacturername": ["Develco Products A/S", "frient A/S"],
    "product":"KEPZB-110 Keypad",
    "vendor": "Develco Products",

@@ -1,5 +1,6 @@
 {
   "schema": "devcap1.schema.json",
+  "uuid": "1dd92e3d-40a7-4e08-9e4b-75e17ada3878",
   "manufacturername": ["Develco Products A/S", "Develco Products A/S"],
   "modelid": ["HMSZB-110", "HMSZB-120"],
   "vendor": "Develco Products",

@@ -1,5 +1,6 @@
 {
   "schema": "devcap1.schema.json",
+  "uuid": "b430cdc0-9595-4731-9fd8-4ae1c077b86e",
   "manufacturername": "$MF_IKEA",
   "modelid": "VINDSTYRKA",
   "product": "Vindstyrka Air Quality Sensor",

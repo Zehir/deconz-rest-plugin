@@ -1,5 +1,6 @@
 {
   "schema": "devcap1.schema.json",
+  "uuid": "b6b5d9bb-16a5-40f1-9bef-4bf56318bf76",
   "manufacturername": "$MF_PHILIPS",
   "modelid": "SML001",
   "vendor": "Philips",

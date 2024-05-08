@@ -1,5 +1,6 @@
 {
   "schema": "devcap1.schema.json",
+  "uuid": "6a41df12-2b84-49cc-83a8-4cfa2c3f0bc8",
   "manufacturername": "$MF_LUMI",
   "modelid": "lumi.sensor_ht",
   "vendor": "Xiaomi",

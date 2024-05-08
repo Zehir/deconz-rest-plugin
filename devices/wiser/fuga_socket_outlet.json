@@ -1,5 +1,6 @@
 {
    "schema":"devcap1.schema.json",
+   "uuid":"e7638048-8b01-44e7-9c22-fc3bcf6f7339",
    "manufacturername":["Schneider Electric", "Schneider Electric"],
    "modelid":["LK/OUTLET/1", "SOCKET/OUTLET/1"],
    "product":"Connected socket outlet 16A",

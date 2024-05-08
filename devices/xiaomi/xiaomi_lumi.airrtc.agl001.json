@@ -1,5 +1,6 @@
 {
   "schema": "devcap1.schema.json",
+  "uuid": "efcc8fd8-04f0-4e5d-aaf2-f7728ec44f0d",
   "manufacturername": "$MF_LUMI",
   "modelid": "lumi.airrtc.agl001",
   "vendor": "Aqara",

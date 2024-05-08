@@ -1,5 +1,6 @@
 {
   "schema": "devcap1.schema.json",
+  "uuid": "4b368a18-47aa-4b8a-af45-616362b27fef",
   "manufacturername": "$MF_LUMI",
   "modelid": "lumi.light.aqcn02",
   "product": "Aqara Tunable White LED Bulb (ZNLDP12LM)",

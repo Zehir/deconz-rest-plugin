@@ -1,5 +1,6 @@
 {
   "schema": "devcap1.schema.json",
+  "uuid": "1da3fe2a-4bb1-477d-908a-a426744027e0",
   "manufacturername": ["SONOFF", "SONOFF"],
   "modelid": ["ZBMINI-L", "ZBMINIL2"],
   "product": "ZBMINI-L or ZBMINIL2",

@@ -1,5 +1,6 @@
 {
   "schema": "devcap1.schema.json",
+  "uuid": "0c7a0920-aace-4062-a34c-1b82d2b363f0",
   "manufacturername": [
     "$MF_SIGNIFY",
     "$MF_PHILIPS"

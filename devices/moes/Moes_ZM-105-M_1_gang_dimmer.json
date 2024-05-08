@@ -1,5 +1,6 @@
 {
     "schema": "devcap1.schema.json",
+    "uuid": "75ed3215-b475-4863-8f20-070080748118",
     "manufacturername": "_TZE204_dcnsggvz",
     "modelid": "TS0601",
     "product": "TS0601",
@@ -34,7 +35,7 @@
           },
           {
             "name": "attr/swversion",
-            "parse": {"fn": "zcl:attr", "ep": 1, "cl": "0x0000", "at": "0x0001", "script": "tuya_swversion.js"},
+            "parse": {"fn": "zcl:attr", "ep": 1, "cl": "0x0000", "at": "0x0001", "script": "../tuya/tuya_swversion.js"},
             "read": {"fn": "zcl:attr", "ep": 1, "cl": "0x0000", "at": "0x0001"},
             "refresh.interval": 86400
           },

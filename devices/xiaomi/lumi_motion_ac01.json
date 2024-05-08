@@ -1,5 +1,6 @@
 {
   "schema": "devcap1.schema.json",
+  "uuid": "949a9a77-11ce-464e-b5f6-3cca49b5b7df",
   "manufacturername": "aqara",
   "modelid": "lumi.motion.ac01",
   "vendor": "Xiaomi",

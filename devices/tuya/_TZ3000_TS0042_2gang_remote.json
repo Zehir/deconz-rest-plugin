@@ -1,5 +1,6 @@
 {
   "schema": "devcap1.schema.json",
+  "uuid": "9e7a1d1a-5784-4401-a5ec-a877ee314f58",
   "manufacturername": ["_TZ3000_5e235jpa", "_TZ3000_t8hzpgnd", "_TZ3000_tzvbimpq", "_TZ3000_i3rjdrwu"],
   "modelid": ["TS0042", "TS0042", "TS0042", "TS0042"],
   "product": "Tuya remote 2 gangs",

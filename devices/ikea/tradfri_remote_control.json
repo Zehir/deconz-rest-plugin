@@ -1,5 +1,6 @@
 {
   "schema": "devcap1.schema.json",
+  "uuid": "b16201bb-7735-4af9-9098-9201ca0dbdcf",
   "manufacturername": "$MF_IKEA",
   "modelid": "TRADFRI remote control",
   "product": "TRADFRI remote control - E1810",

@@ -1,5 +1,6 @@
 {
   "schema": "devcap1.schema.json",
+  "uuid": "475e0193-1edb-48bc-9336-0b43ad5f860b",
   "manufacturername": ["frient A/S", "frient A/S", "frient A/S"],
   "modelid": ["SPLZB-131", "SPLZB-134", "SPLZB-141"],
   "product": "SPLZB-131, SPLZB-134 and SPLZB-141 smart plug",

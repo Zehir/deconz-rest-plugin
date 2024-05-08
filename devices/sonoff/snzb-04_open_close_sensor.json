@@ -1,5 +1,6 @@
 {
   "schema": "devcap1.schema.json",
+  "uuid": "614e3587-c4c3-4bcb-8dbe-0ea2e6da1912",
   "manufacturername": ["eWeLink", "zbeacon"],
   "modelid": ["DS01", "DS01"],
   "vendor": "SONOFF",

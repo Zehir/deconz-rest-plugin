@@ -1,5 +1,6 @@
 {
   "schema": "devcap1.schema.json",
+  "uuid": "48e49450-0919-4960-b6d2-96f7ecec7b98",
   "manufacturername": "Schneider Electric",
   "modelid": "LK Switch",
   "product": "LK Fuga Double Relay Switch",

@@ -1,5 +1,6 @@
 {
   "schema": "devcap1.schema.json",
+  "uuid": "333558c5-9b6b-4b24-873e-cb339de7605b",
   "manufacturername": ["_TZE200_v6ossqfy","_TZE200_mx6u6l4y","_TZE200_0u3bj3rc"],
   "modelid": ["TS0601","TS0601","TS0601"],
   "product": "2.4GHz mmWave radar w/LED",

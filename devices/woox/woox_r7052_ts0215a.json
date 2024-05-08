@@ -1,5 +1,6 @@
 {
    "schema":"devcap1.schema.json",
+   "uuid":"be2c3463-4bd5-4e90-8b91-9047f103ac4e",
    "manufacturername":["_TZ3000_ssp0maqm", "_TZ3000_zsh6uat3"],
    "modelid":["TS0215A", "TS0215A"],
    "vendor":"Woox",

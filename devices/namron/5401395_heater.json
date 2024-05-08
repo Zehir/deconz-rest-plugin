@@ -1,5 +1,6 @@
 {
   "schema": "devcap1.schema.json",
+  "uuid": "cf724a60-5848-4656-bbc0-cbcb36799269",
   "manufacturername": ["NAMRON AS", "NAMRON AS"],
   "modelid": ["5401395", "5401399"],
   "vendor": "Namron",

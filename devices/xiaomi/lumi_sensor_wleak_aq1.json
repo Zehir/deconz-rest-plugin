@@ -1,5 +1,6 @@
 {
   "schema": "devcap1.schema.json",
+  "uuid": "747b18d8-d65b-46b5-ac93-c3393708086b",
   "manufacturername": "$MF_LUMI",
   "modelid": "lumi.sensor_wleak.aq1",
   "vendor": "Xiaomi",

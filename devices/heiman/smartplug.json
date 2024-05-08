@@ -1,5 +1,6 @@
 {
     "schema": "devcap1.schema.json",
+    "uuid": "bf0f3a68-0fb9-439b-a136-4c807d52486c",
     "manufacturername": "Heiman",
     "modelid": "SmartPlug",
     "product": "SmartPlug",

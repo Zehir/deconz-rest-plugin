@@ -1,5 +1,6 @@
 {
   "schema": "devcap1.schema.json",
+  "uuid": "04930f21-31c9-4361-a221-83356391559c",
   "manufacturername": "$MF_IKEA",
   "modelid": "TRADFRI on/off switch",
   "product": "TRADFRI on/off switch - E1743",

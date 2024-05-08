@@ -1,5 +1,6 @@
 {
   "schema": "devcap1.schema.json",
+  "uuid": "7b63f09d-2d9f-454b-a8fd-560da29e978f",
   "manufacturername": ["Technicolor","Universal Electronics Inc","Universal Electronics Inc"],
   "modelid": ["TKA105","URC4450BC0-X-R","H34450BA00-00007"],
   "product": "Xfinity security keypad",

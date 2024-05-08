@@ -1,5 +1,6 @@
 {
   "schema": "devcap1.schema.json",
+  "uuid": "dd729d17-91ef-420e-994d-93cecab40f2b",
   "manufacturername": ["Develco Products A/S", "Develco Products A/S"],
   "modelid": ["MOSZB-130", "MOSZB-140"],
   "vendor": "Develco Products",

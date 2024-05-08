@@ -1,5 +1,6 @@
 {
   "schema": "devcap1.schema.json",
+  "uuid": "9754df87-f28d-4c14-8f45-7f459547552d",
   "manufacturername": ["eWeLink","SONOFF","SONOFF"],
   "modelid": ["TH01","SNZB-02D","SNZB-02P"],
   "vendor": "SONOFF",

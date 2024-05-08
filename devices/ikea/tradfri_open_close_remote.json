@@ -1,5 +1,6 @@
 {
   "schema": "devcap1.schema.json",
+  "uuid": "5782a1ba-07c3-4e64-b5a1-43db4c631e8d",
   "manufacturername": "$MF_IKEA",
   "modelid": "TRADFRI open/close remote",
   "product": "TRADFRI open/close remote - E1766",

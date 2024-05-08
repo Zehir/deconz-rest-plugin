@@ -1,5 +1,6 @@
 {
     "schema": "devcap1.schema.json",
+    "uuid": "e1bd942e-8308-47dc-911b-1e879a0e9447",
     "doc:path": "samsung/samjin_button_switch.md",
     "doc:hdr": "Samsung Button",
     "manufacturername": "$MF_SAMJIN",

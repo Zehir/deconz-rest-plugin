@@ -1,5 +1,6 @@
 {
   "schema": "devcap1.schema.json",
+  "uuid": "123ab9d8-a61e-4811-a634-5f964ef23cc5",
   "manufacturername": "Schneider Electric",
   "modelid": "LK Dimmer",
   "product": "LK Fuga Dimmer Switch",

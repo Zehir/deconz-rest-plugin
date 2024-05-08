@@ -1,5 +1,6 @@
 {
   "schema": "devcap1.schema.json",
+  "uuid": "fc99f8a3-5290-4231-8355-17b9df97c279",
   "manufacturername": ["Develco Products A/S", "frient A/S"],
   "modelid": ["MOSZB-141", "MOSZB-141"],
   "vendor": "Develco Products",

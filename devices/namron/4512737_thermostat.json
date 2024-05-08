@@ -1,5 +1,6 @@
 {
   "schema": "devcap1.schema.json",
+  "uuid": "910ddb6b-2932-4fa2-af97-74ac8c36c137",
   "manufacturername": ["NAMRON AS", "NAMRON AS"],
   "modelid": ["4512737", "4512738"],
   "product": "Thermostat Touch Zigbee 16A",

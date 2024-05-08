@@ -1,5 +1,6 @@
 {
   "schema": "devcap1.schema.json",
+  "uuid": "ffce5d17-19a0-4d5a-a818-4951664759d2",
   "manufacturername": ["_TZE200_pay2byax", "_TZE200_kltffuzl", "_TZE200_fwoorn8y"],
   "modelid": ["TS0601", "TS0601", "TS0601"],
   "product": "ZG-102Z or TM001-ZA or TM081 open/close sensor",

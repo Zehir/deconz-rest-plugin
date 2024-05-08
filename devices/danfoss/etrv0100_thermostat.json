@@ -1,5 +1,6 @@
 {
   "schema": "devcap1.schema.json",
+  "uuid": "c86f63ac-b321-4649-9c6f-70cb7ab62e6c",
   "manufacturername": ["Danfoss", "Danfoss", "D5X84YU", "D5X84YU", "Danfoss"],
   "modelid": ["eTRV0100", "eTRV0103", "eT093WRO", "eT093WRG", "TRV001"],
   "vendor": "Danfoss",

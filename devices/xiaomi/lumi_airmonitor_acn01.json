@@ -1,5 +1,6 @@
 {
   "schema": "devcap1.schema.json",
+  "uuid": "cfd54065-1410-4ceb-9337-0ef57db8d731",
   "manufacturername": "$MF_LUMI",
   "modelid": "lumi.airmonitor.acn01",
   "vendor": "Xiaomi",

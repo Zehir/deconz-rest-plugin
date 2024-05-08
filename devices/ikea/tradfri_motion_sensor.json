@@ -1,5 +1,6 @@
 {
   "schema": "devcap1.schema.json",
+  "uuid": "2f7fed82-d317-4880-bc6f-b4d53202fe74",
   "manufacturername": "$MF_IKEA",
   "modelid": "TRADFRI motion sensor",
   "product": "TRADFRI motion sensor - E1525, E1745",

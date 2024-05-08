@@ -1,5 +1,6 @@
 {
   "schema": "devcap1.schema.json",
+  "uuid": "f748abfb-1013-4682-b6de-414bcf674a7a",
   "manufacturername": ["_TZE200_byzdayie", "_TZE200_fsb6zw01", "_TZE200_ewxhg6o9"],
   "modelid": ["TS0601", "TS0601", "TS0601"],
   "product": "Single Phase 65A Din Rail Smart Energy Meter",

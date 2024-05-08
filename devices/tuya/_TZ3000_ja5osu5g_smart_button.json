@@ -1,5 +1,6 @@
 {
   "schema": "devcap1.schema.json",
+  "uuid": "3d1aef26-cd3c-4f10-91f1-abdf81399f94",
   "manufacturername": ["_TZ3000_ja5osu5g", "_TZ3000_fa9mlvja"],
   "modelid": ["TS004F", "TS0041"],
   "vendor": "Tuya",

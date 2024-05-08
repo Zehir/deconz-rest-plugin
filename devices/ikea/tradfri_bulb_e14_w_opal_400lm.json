@@ -1,5 +1,6 @@
 {
   "schema": "devcap1.schema.json",
+  "uuid": "d60bcf33-fa41-4f0d-af92-a8dfabfbafd3",
   "manufacturername": "$MF_IKEA",
   "modelid": "TRADFRI bulb E14 W op/ch 400lm",
   "product": "TRADFRI bulb E14 W op/ch 400lm",

@@ -1,5 +1,6 @@
 {
   "schema": "devcap1.schema.json",
+  "uuid": "0e3dcdef-3468-4d2f-9085-076f4c1e132e",
   "manufacturername": "$MF_IKEA",
   "modelid": "TRADFRI bulb GU10 WW 400lm",
   "product": "TRADFRI bulb GU10 WW 400lm",

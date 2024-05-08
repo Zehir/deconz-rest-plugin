@@ -1,5 +1,6 @@
 {
   "schema": "devcap1.schema.json",
+  "uuid": "89b0affd-47ae-4c7c-b649-b7b0de534373",
   "manufacturername": "LDS",
   "modelid": "ZBT-DIMSwitch-D0000",
   "product": "LDS battery switch",

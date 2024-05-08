@@ -1,5 +1,6 @@
 {
   "schema": "devcap1.schema.json",
+  "uuid": "54852a10-0c04-46e7-af00-cf6c6278e8ca",
   "manufacturername": "Schneider Electric",
   "modelid": "CH/DIMMER/1",
   "product": "40/300-Series Module Dimmer",

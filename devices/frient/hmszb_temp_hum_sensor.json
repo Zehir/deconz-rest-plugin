@@ -1,5 +1,6 @@
 {
   "schema": "devcap1.schema.json",
+  "uuid": "fde6442f-862c-4cdd-815f-a0962e1916ab",
   "manufacturername": ["frient A/S", "frient A/S"],
   "modelid": ["HMSZB-110", "HMSZB-120"],
   "vendor": "Develco Products",
